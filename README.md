@@ -10,17 +10,7 @@ This Python script calculates numerical integration using various methods, such 
 ## Prerequisites
 
 - Python 3.x
-- Required Python libraries: `matplotlib`, `pandas`, `numpy`
-
-## Features
-
-- Numerical integration using different methods.
-- Graphical representation of the function and integration area.
-
-## Prerequisites
-
-- Python 3.x
-- Required Python libraries: `matplotlib`, `pandas`, `numpy`
+- Required Python libraries: `matplotlib`, `pandas`, `numpy`, `math`
 
 ## Usage
 
