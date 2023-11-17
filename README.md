@@ -63,13 +63,13 @@ Upper bound = 0.8
 The results will be displayed in tabular format, including the true value and percentage error for each integration method.
 
 ```
-                                                    Result                             |εₜ|
-True Value                              |   1.417200000035095    0 %
-Trapezoidal Rule                    |  0.4560000000000168   67.82387807022829 %
-Simpson's 1/3 Rule                 |  0.7948000000000065   43.91758396977672 % 
-Simpson's 3/8 Rule                 |  0.9564000000000059   32.51481795255984 %
-Compination 1/3 & 3/8 Rule  |   1.267564117333339    10.558557909825753 %
-1/3 & 3/8 & 1/3 & 3/8 Rule   |  1.4910980853333393   5.214372374852828 %
+Result             |εₜ|
+True Value                  |  1.2825416666851581                   0 %
+Trapezoidal Rule            |  0.9127499999999996  28.832721485058464 %
+Simpson's 1/3 Rule          |  0.7948000000000065   43.91758396977672 %
+Simpson's 3/8 Rule          |  0.9564000000000059   32.51481795255984 %
+Compination 1/3 & 3/8 Rule  |   1.267564117333339  10.558557909825753 %
+1/3 & 3/8 & 1/3 & 3/8 Rule  |  1.4910980853333393   5.214372374852828 %
 ```
 
 ## Graphical Representation
