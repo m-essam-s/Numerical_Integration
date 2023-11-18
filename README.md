@@ -80,6 +80,12 @@ A plot of the function and the shaded area representing the integration will be 
 
 This project is licensed under the MIT License
 
+## Contributing
+
+If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+
+Happy coding!
+
 ## Author✍️
 
 * **[Mohamed Essam](https://twitter.com/m-essam-s)** <[m-essam-s](https://github.com/m-essam-s)>
