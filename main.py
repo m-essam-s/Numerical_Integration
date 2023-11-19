@@ -82,8 +82,8 @@ class Numerical_Integration:
     '''"test (0.2+(25*x)-(200*(x**2))+(675*(x**3))-(900*(x**4))+(400*(x**5)))", 0.2, 0.8'''    
 if __name__=='__main__':
     Function=input("F(X) =  ")
-    LowerBound=eval(input("Lower bound = "))
-    UpperBound=eval(input("Upper bound = "))
+    LowerBound=float(input("Lower bound = "))
+    UpperBound=float(input("Upper bound = "))
     Calc = Numerical_Integration(Function, LowerBound, UpperBound)
     print(Calc)
     Calc.Graph()
